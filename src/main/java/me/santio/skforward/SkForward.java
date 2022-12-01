@@ -24,7 +24,7 @@ import java.nio.file.Path;
     id = "skforward",
     name = "SkForward",
     version = "1.0",
-    description = "Forwards bungee events so skript-reflect can listen to them",
+    description = "Forwards bungee events so RediSkript can listen to them",
     url = "https://santio.me",
     authors = {"Santio71"}
 )
